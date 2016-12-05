@@ -1,0 +1,131 @@
+City,Type,Nominated Uni,Name,Dist from city centre,Dist from uni,Beds
+Aberdeen,Direct,No Nomination,Spring Gardens,0.3 miles from city centre,0.1 miles from North East Scotland College,511
+Aberdeen,Direct,No Nomination,The Old Fire Station,0.3 miles from city centre,0.2 miles from North East Scotland College,273
+Aberdeen,Direct,No Nomination,Mealmarket Exchange,0.1 miles from city centre,"0.1 miles from Marischal Campus, Aberdeen University",359
+Aberdeen,Direct,No Nomination,Causeway View,0.4 miles from city centre,0.2 miles from North East Scotland College,399
+Aberdeen,Direct,No Nomination,King Street Exchange,1.1 miles from city centre,"0.2 miles from Old Aberdeen Campus, Aberdeen University",178
+Bath,Direct,No Nomination,Charlton Court,0.8 miles from city centre,2.3 miles from Bath Spa University,331
+Bath,Nominated,Properties just for Bath Spa University students,Waterside Court,0.8 miles from city centre,2.3 miles from Bath Spa University,316
+Birmingham,Direct,No Nomination,The Heights,0.1 miles from city centre,0.1 miles from Aston University,909
+Birmingham,Direct,No Nomination,Londonderry House,0.3 miles from city centre,0.1 miles from BPP University Birmingham,175
+Birmingham,Direct,No Nomination,Jennens Court,0.3 miles from city centre,0.0 miles from Birmingham Ormiston Academy,596
+Birmingham,Direct,No Nomination,Curzon Gateway,0.5 miles from city centre,0.2 miles from Birmingham Institute of Art and Design,749
+Bournemouth,Nominated,Properties just for Bournemouth University students,Purbeck House,0.3 miles from city centre,"0.2 miles from Lansdowne Campus, Bournemouth University",519
+Bristol,Direct,No Nomination,Culver House,0.6 miles from city centre,0.3 miles from University of Bristol,97
+Bristol,Direct,No Nomination,Blenheim Court,0.4 miles from city centre,"0.1 miles from BIMM Main Campus, BIMM -Bristol Institute of Modern Music",231
+Bristol,Direct,No Nomination,Cherry Court,0.4 miles from city centre,"0.1 miles from BIMM Main Campus, BIMM -Bristol Institute of Modern Music",176
+Bristol,Direct,No Nomination,Phoenix Court,0.2 miles from city centre,0.3 miles from The Big Act in Bristol,277
+Bristol,Direct,No Nomination,Studio 58,0.4 miles from city centre,"0.1 miles from BIMM Main Campus, BIMM -Bristol Institute of Modern Music",104
+Bristol,Nominated,Properties just for University of Bristol students,Chantry Court,0.5 miles from city centre,0.2 miles from EC Bristol,226
+Bristol,Nominated,Properties just for University of Bristol students,Favell House,0.3 miles from city centre,0.1 miles from EC Bristol,234
+Bristol,Nominated,Properties just for University of Bristol students,Orchard Heights,0.6 miles from city centre,0.3 miles from University of Bristol,477
+Bristol,Nominated,Properties just for University of Bristol students,The Rackhay,0.3 miles from city centre,0.1 miles from EC Bristol,115
+Bristol,Nominated,Properties just for University of Bristol students,UNITE House,0.5 miles from city centre,0.3 miles from University of Bristol,392
+Bristol,Nominated,Properties just for University of Bristol students,Waverley House,0.3 miles from city centre,0.2 miles from EC Bristol,217
+Bristol,Nominated,Properties just for University of West of England students,Marketgate,0.2 miles from city centre,0.4 miles from The Big Act in Bristol,490
+Bristol,Nominated,Properties just for University of West of England students,Nelson House and Drake House,0.3 miles from city centre,"0.4 miles from BIMM Main Campus, BIMM -Bristol Institute of Modern Music",302
+Bristol,Nominated,Properties just for University of West of England students,Transom House,0.3 miles from city centre,0.4 miles from EC Bristol,134
+Coventry,Direct,No Nomination,Callice Court,0.4 miles from city centre,0.2 miles from Coventry University,736
+Coventry,Direct,No Nomination,Raglan House,0.4 miles from city centre,0.3 miles from Coventry University,212
+Coventry,Direct,No Nomination,Gosford Gate,0.4 miles from city centre,0.2 miles from Coventry University,285
+Durham,Direct,No Nomination,Elvet Studios,0.4 miles from city centre,"0.2 miles from College of St Hild and St Bede, Durham University",112
+Edinburgh,Direct,No Nomination,Sugarhouse Close,0.5 miles from city centre,0.2 miles from Edinburgh School of English,300
+Edinburgh,Direct,No Nomination,Chalmers Street,0.8 miles from city centre,0.2 miles from Edinburgh College of Art,251
+Edinburgh,Direct,No Nomination,Portsburgh Court,0.7 miles from city centre,0.1 miles from Edinburgh College of Art,229
+Edinburgh,Direct,No Nomination,Panmure Court,0.4 miles from city centre,0.2 miles from Edinburgh School of English,59
+Edinburgh,Direct,No Nomination,Lady Nicolson Court,0.6 miles from city centre,0.1 miles from University of Edinburgh,45
+Exeter,Direct,No Nomination,Northernhay House,0.6 miles from city centre,0.8 miles from Exeter University,218
+Exeter,Direct,No Nomination,Exeter Trust House,1.0 miles from city centre,0.9 miles from Exeter University,124
+Exeter,Direct,No Nomination,Northfield,0.9 miles from city centre,0.5 miles from Exeter University,190
+Glasgow,Direct,No Nomination,Buchanan View,0.3 miles from city centre,0.3 miles from Glasgow Caledonian,660
+Glasgow,Direct,No Nomination,Blackfriars,0.7 miles from city centre,0.2 miles from The University of Strathclyde,520
+Glasgow,Direct,No Nomination,Thurso Street,1.8 miles from city centre,0.0 miles from Glasgow International College,405
+Glasgow,Direct,No Nomination,Tramworks,1.5 miles from city centre,0.5 miles from Glasgow International College,232
+Glasgow,Direct,No Nomination,Kelvin Court,1.6 miles from city centre,0.3 miles from Glasgow International College,477
+Glasgow,Direct,No Nomination,Gibson Street,1.2 miles from city centre,"0.3 miles from Gilmorehill Campus, Glasgow University",93
+Huddersfield,Direct,No Nomination,Firth Point,0.5 miles from city centre,0.2 miles from The University of Huddersfield,196
+Huddersfield,Direct,No Nomination,Snow Island,0.5 miles from city centre,0.2 miles from The University of Huddersfield,427
+Huddersfield,Direct,No Nomination,Saw Mill,0.6 miles from city centre,0.3 miles from The University of Huddersfield,378
+Leeds,Direct,No Nomination,Broadcasting Tower,0.2 miles from city centre,"0.2 miles from City Campus, Leeds Beckett University",241
+Leeds,Direct,No Nomination,Concept Place,0.6 miles from city centre,0.2 miles from Leeds City College,391
+Leeds,Direct,No Nomination,The Plaza,0.2 miles from city centre,"0.2 miles from City Campus, Leeds Beckett University",964
+Leeds,Direct,No Nomination,Sky Plaza,0.3 miles from city centre,"0.2 miles from City Campus, Leeds Beckett University",536
+Leeds,Direct,No Nomination,The Tannery,0.6 miles from city centre,0.2 miles from Leeds City College,502
+Leeds,Direct,No Nomination,The Priory,0.4 miles from city centre,0.2 miles from University of Leeds,77
+Leeds,Nominated,Properties just for Leeds College of Music students,Joseph Stones House,0.8 miles from city centre,0.6 miles from Leeds College of Building,190
+Leeds,Nominated,Properties just for University of Leeds students,James Baillie Park,1.2 miles from city centre,0.8 miles from Leeds Language Academy,563
+Leicester,Direct,No Nomination,Filbert Village,1.0 miles from city centre,0.4 miles from De Montfort University,664
+Leicester,Direct,No Nomination,St Martins House,0.6 miles from city centre,0.4 miles from De Montfort University,148
+Leicester,Direct,No Nomination,The Grange,0.6 miles from city centre,0.1 miles from De Montfort University,220
+Leicester,Direct,No Nomination,Newarke Point,0.5 miles from city centre,0.1 miles from De Montfort University,653
+Liverpool,Direct,No Nomination,Larch House,1.1 miles from city centre,0.2 miles from University of Liverpool,104
+Liverpool,Direct,No Nomination,Myrtle Court,1.5 miles from city centre,0.5 miles from University of Liverpool,237
+Liverpool,Direct,No Nomination,The Railyard,1.4 miles from city centre,0.4 miles from University of Liverpool,271
+Liverpool,Direct,No Nomination,Capital Gate,1.0 miles from city centre,0.3 miles from University of Liverpool,430
+Liverpool,Direct,No Nomination,Grand Central,0.6 miles from city centre,"0.3 miles from Mount Pleasant Campus, Liverpool John Moores University",1236
+Liverpool,Direct,No Nomination,Lennon Studios,1.0 miles from city centre,0.2 miles from University of Liverpool,248
+Liverpool,Direct,No Nomination,Arrad House,1.0 miles from city centre,"0.2 miles from Mount Pleasant Campus, Liverpool John Moores University",75
+Liverpool,Direct,No Nomination,Cambridge Court,1.1 miles from city centre,"0.2 miles from Mount Pleasant Campus, Liverpool John Moores University",474
+Liverpool,Nominated,Properties just for Liverpool International College students,Cedar House,1.1 miles from city centre,"0.2 miles from Mount Pleasant Campus, Liverpool John Moores University",102
+Liverpool,Nominated,Properties just for Liverpool John Moores University students,Apollo Court,0.8 miles from city centre,0.4 miles from University of Liverpool,221
+London,Direct,No Nomination,North Lodge,6.1 miles from city centre,"3.5 miles from Holloway Campus, London Metropolitan University",528
+London,Direct,No Nomination,Bernard Myers House,4.0 miles from city centre,"0.8 miles from Denmark Hill Campus, Kings College London",123
+London,Direct,No Nomination,Station Court,5.2 miles from city centre,"2.6 miles from Holloway Campus, London Metropolitan University",225
+London,Direct,No Nomination,Emily Bowes Court,6.0 miles from city centre,"3.4 miles from Holloway Campus, London Metropolitan University",694
+London,Direct,No Nomination,Stratford ONE,6.0 miles from city centre,"0.6 miles from Birkbeck Stratford Campus, Birkbeck, University of London",1001
+London,Direct,No Nomination,Pacific Court,4.1 miles from city centre,"0.4 miles from Whitechapel Campus, City University, London",142
+London,Direct,No Nomination,Blithehale Court,3.9 miles from city centre,"0.6 miles from Whitechapel Campus, City University, London",306
+London,Direct,No Nomination,Olympic Way,6.3 miles from city centre,"2.2 miles from Harrow Campus, University of Westminster",699
+London,Direct,No Nomination,Woburn Place,0.9 miles from city centre,"0.2 miles from Birkbeck Central London Campus, Birkbeck, University of London",457
+London,Direct,No Nomination,Rahere Court,4.7 miles from city centre,"0.1 miles from Mile End Campus, Queen Mary, University of London",186
+London,Direct,No Nomination,Stapleton House,2.6 miles from city centre,"0.1 miles from Holloway Campus, London Metropolitan University",856
+London,Direct,No Nomination,Beaumont Court,1.3 miles from city centre,0.1 miles from Royal Veterinary College,232
+London,Direct,No Nomination,St Pancras Way,1.3 miles from city centre,0.0 miles from Royal Veterinary College,572
+London,Direct,No Nomination,Wellington Lodge,2.3 miles from city centre,"0.2 miles from Southwark, London South Bank University",146
+London,Direct,No Nomination,Somerset Court,0.9 miles from city centre,0.3 miles from Royal Veterinary College,169
+London,Direct,No Nomination,Elizabeth Croll House,1.6 miles from city centre,"0.0 miles from Vernon Square Campus, School of Oriental and African Studies",102
+London,Direct,No Nomination,Student Living Heights,2.0 miles from city centre,"0.2 miles from Northampton Square Campus, City University, London",136
+London,Direct,No Nomination,Quantum Court,4.1 miles from city centre,"0.5 miles from Whitechapel Campus, City University, London",133
+London,Direct,No Nomination,East Central House,2.3 miles from city centre,"0.3 miles from Northampton Square Campus, City University, London",247
+London,Direct,No Nomination,Kirby Street,1.7 miles from city centre,"0.3 miles from Grays Inn Campus, City University, London",128
+London,Nominated,Properties just for CATS College students,Piccadilly Court,2.2 miles from city centre,"0.4 miles from Holloway Campus, London Metropolitan University",Error
+London,Nominated,Properties just for Kings College London students,Angel Lane,6.5 miles from city centre,"0.1 miles from Birkbeck Stratford Campus, Birkbeck, University of London",759
+London,Nominated,Properties just for Kings College London students,Ewen Henderson Court,5.6 miles from city centre,"0.2 miles from Goldsmiths, University of London",260
+London,Nominated,Properties just for Kings College London students,Julian Markham House,2.9 miles from city centre,0.2 miles from University of the Arts London,232
+London,Nominated,Properties just for Kings College London students,Moonraker Point,2.4 miles from city centre,"0.2 miles from Southwark, London South Bank University",674
+London,Nominated,Properties just for London School of Economics students,Sidney Webb House,3.0 miles from city centre,"0.4 miles from Guys Campus, Kings College London",452
+London,Nominated,"Properties just for Queen Mary, University of London students",Sherren House,4.2 miles from city centre,"0.4 miles from Mile End Campus, Queen Mary, University of London",255
+London,Nominated,Properties just for Royal Veterinary College students,Mary Brancker House,2.0 miles from city centre,1.0 miles from Royal Veterinary College,182
+Loughborough,Direct,No Nomination,Waterways,0.0 miles from city centre,0.9 miles from Loughborough University,179
+Loughborough,Nominated,Properties just for Loughborough University students,The Holt,0.9 miles from city centre,0.6 miles from Loughborough University,264
+Manchester,Direct,No Nomination,Kincardine Court,1.1 miles from city centre,0.2 miles from University of Manchester,229
+Manchester,Direct,No Nomination,New Medlock House,0.6 miles from city centre,0.1 miles from Manchester - British and Irish Modern Music Institute (BIMM),671
+Manchester,Direct,No Nomination,Piccadilly Point,0.8 miles from city centre,0.4 miles from Manchester - INTO Manchester,588
+Manchester,Direct,No Nomination,Parkway Gate,0.6 miles from city centre,0.2 miles from Manchester - British and Irish Modern Music Institute (BIMM),729
+Manchester,Nominated,Properties just for Manchester Metropolitan students,Cavendish Place,0.8 miles from city centre,"0.3 miles from All Saints Campus, Manchester Metropolitan",119
+Newcastle,Direct,No Nomination,Manor Bank,0.7 miles from city centre,0.3 miles from Northumbria University,527
+Newcastle,Direct,No Nomination,Magnet Court,0.4 miles from city centre,0.4 miles from Newcastle University,112
+Nottingham,Direct,No Nomination,Riverside Point,1.0 miles from city centre,1.0 miles from Nottingham University,484
+Nottingham,Direct,No Nomination,St Peters Court,1.0 miles from city centre,"1.2 miles from City Site, Nottingham Trent University",808
+Oxford,Nominated,Properties just for Oxford Brookes University students,Dorset House,1.8 miles from city centre,0.4 miles from Oxford Brookes University,313
+Plymouth,Direct,No Nomination,Central Point,0.4 miles from city centre,"0.4 miles from City Campus, Plymouth University",235
+Plymouth,Direct,No Nomination,Discovery Heights,0.3 miles from city centre,"0.1 miles from City Campus, Plymouth University",281
+Plymouth,Nominated,Properties just for Plymouth University students,Alexandra Works,0.8 miles from city centre,"0.7 miles from City Campus, Plymouth University",246
+Plymouth,Nominated,Properties just for Plymouth University students,St Teresa House,0.1 miles from city centre,"0.4 miles from City Campus, Plymouth University",112
+Plymouth,Nominated,Properties just for Plymouth University students,St Thomas Court,0.1 miles from city centre,"0.4 miles from City Campus, Plymouth University",237
+Poole,Nominated,Properties just for Bournemouth University students,Corfe House,0.4 miles from city centre,Error,308
+Portsmouth,Direct,No Nomination,Greetham Street,0.1 miles from city centre,"0.2 miles from Main Campus, University of Portsmouth",Error
+Portsmouth,Nominated,Properties just for University of Portsmouth students,James Watson Hall,0.2 miles from city centre,"0.2 miles from Main Campus, University of Portsmouth",688
+Portsmouth,Nominated,Properties just for University of Portsmouth students,Margaret Rule Hall,0.1 miles from city centre,"0.2 miles from Main Campus, University of Portsmouth",342
+Portsmouth,Nominated,Properties just for University of Portsmouth students,Trafalgar Hall,0.3 miles from city centre,"0.0 miles from Main Campus, University of Portsmouth",288
+Reading,Direct,No Nomination,Kendrick Hall,0.5 miles from city centre,1.1 miles from University of Reading,604
+Reading,Direct,No Nomination,Crown House,0.3 miles from city centre,1.3 miles from University of Reading,99
+Sheffield,Direct,No Nomination,Devonshire Courtyard,0.4 miles from city centre,0.2 miles from Sheffield - Sheffield College,319
+Sheffield,Direct,No Nomination,Leadmill Point,0.2 miles from city centre,0.2 miles from Sheffield Hallam University,446
+Sheffield,Direct,No Nomination,Archways,0.1 miles from city centre,0.1 miles from Sheffield Hallam University,218
+Sheffield,Direct,No Nomination,Central Quay,0.7 miles from city centre,0.3 miles from Sheffield - Sheffield International College,767
+Sheffield,Direct,No Nomination,Exchange Works,0.2 miles from city centre,0.1 miles from Sheffield - Sheffield College,437
+Sheffield,Direct,No Nomination,The Forge 2,0.6 miles from city centre,0.4 miles from Sheffield - Sheffield College,224
+Sheffield,Direct,No Nomination,The Anvil,0.4 miles from city centre,0.4 miles from Sheffield Hallam University,163
+Sheffield,Direct,No Nomination,The Forge,0.6 miles from city centre,0.4 miles from Sheffield - Sheffield College,1157
+York,Direct,No Nomination,The Boulevard,0.9 miles from city centre,0.4 miles from York - Hull York Medical School,356

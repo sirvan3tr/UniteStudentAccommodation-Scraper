@@ -31,7 +31,7 @@ for city in cmli:
 print('Number of cities: '+str(len(cities)))
 ##################
 
-file = open("C:/Users/salmasi/Documents/MATLAB/unitescraper/dbs.csv", "w" , newline='')
+file = open("dbs.csv", "w" , newline='')
 writer = csv.writer(file)
 attrlist = [] # Array for list of attributes associated with propertylist
 
